@@ -1,16 +1,18 @@
+## NASA Mentor
+>**MD. MAZID-UL-HAQUE**  
+>*Assistant Professor & Special Assistant (OSA)*  
+>**Department of Computer Science,AIUB**<br>
+
 # Megacity Climate Intelligence (MCI)
 
 > **NASA International Space Apps Challenge 2026**  
-> **Challenge:** *Be an Earth System Trend Detective*  
-> **Team:** Team AstroLogic  
+> **Challenge:** *Be an Earth System Trend Detective* <br> 
+> **Team:** Team AstroLogic<br>
 > **Platform Name:** Megacity Climate Intelligence (MCI)<br>
 > **Overall Project Overview (Drive Video Link):** https://drive.google.com/file/d/1cqLivEyvOzLIHE2nU7Fx1IITtAuyN7Pr/view?usp=sharing>  <br>
-> **240 s Youtube Video Link:** https://youtu.be/7Bc2XX1VSTE
+> **240 s Youtube Video Link:** https://youtu.be/7Bc2XX1VSTE <br>
+> **30 s Global Round Youtube Video Link:** https://youtu.be/ifttH-iTz4o?si=61MDzg7--HCcDrIS <br>
 >  [**Note:** This video was created with the assistance of AI tools.] <br>
->**AI Tools Used For YouTube Video**
->- **Claude Opus 5.5** — Video generation and creative assistance
->- **ElevenLabs AI** — Speech generation
->- **Gemini 4 Argon** — Overall Idea
 ---
 
 ## 🌍 Executive Summary
