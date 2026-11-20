@@ -229,7 +229,6 @@ function paintReportDialog() {
   });
   paintReportPreview();
 }
-
 function paintWithFlag(el, label) {
   if (!el) return;
   el.replaceChildren();
@@ -238,7 +237,6 @@ function paintWithFlag(el, label) {
   flag.setAttribute("aria-hidden", "true");
   el.append(flag, document.createTextNode(label));
 }
-
 function paintChrome() {
   $("eyebrow").textContent = t("eyebrow");
   $("title").textContent = t("title");
@@ -594,7 +592,6 @@ function plainCitySummary(point, data) {
     return fill(t("trendStable"), { city: cityName, var: varName, variable: varName });
   }
 }
-
 function render(data) {
   const answer = $("answer");
   answer.innerHTML = "";
